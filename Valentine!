@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Valentine Day!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #01f5f9;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            color: #ff0066;
+        }
+        p {
+            font-size: 18px;
+            color: #333;
+        }
+        img {
+            width: 300px;
+            border-radius: 50%;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Selamat Hari Valentine!</h1>
+    <p>Teruntuk <strong> Velma </strong>,</p>
+    <p>Di hari yang istimewa ini, gw mau ngucapin selamat hari Valentine!</p>
+    <p>Lu adalah sumber kebahagiaan dan inspirasi bagi gw.</p>
+    <p>Makasih dah jadi bagian dari hidup gw.</p>
+    <img src="photo1706885252.jpeg" alt="My Love">
+</body>
+</html>
